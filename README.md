@@ -15,6 +15,6 @@
 ## 👾 프로젝트 설계
 프로젝트 설계
 
-<div align="center">
+
   ![스크린샷 2025-01-16 004302](https://github.com/user-attachments/assets/911bbb0f-6c86-4b99-a55d-4d954190e7b9)
-</div>
+
