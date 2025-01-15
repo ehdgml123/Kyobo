@@ -3,4 +3,18 @@
 
 ## 🚩 개요
 - 프로젝트 목표 : 도서 open API 를 이용한 Visual Studio 교보문고 프로젝트
-- - 개발 기간 : 24/05/01 ~ 24/05/20
+- 개발 기간 : 24/04/10 ~ 24/04/15
+
+## 🙋‍♀️ 소개
+- LEE DONGHEE <a href="https://github.com/ehdgml123"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"></a>
+
+## 🔧 기술 스택
+- API : `Kakao API`
+- Library : `Html5`, `css`, 'javaScript'
+
+## 👾 프로젝트 설계
+프로젝트 설계
+
+<div align="center">
+  
+</div>
