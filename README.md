@@ -9,7 +9,7 @@
 - LEE DONGHEE <a href="https://github.com/ehdgml123"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"></a>
 
 ## 🔧 기술 스택
-- API : `Kakao API`
+- API : `opneAPI`
 - Library : `Html5`, `css`, 'javaScript'
 
 ## 👾 프로젝트 설계
