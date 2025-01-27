@@ -10,7 +10,7 @@
 
 ## 🔧 기술 스택
 - API : `opneAPI`
-- Library : `Html5`, `css`, 'javaScript'
+- Library : `Html5`, `css`, `jQuery`
 
 ## 👾 프로젝트 설계
 프로젝트 설계
